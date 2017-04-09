@@ -1,0 +1,94 @@
+dataset/pos/cv000_tok-11609.txt
+Score: 0
+Magnitude: 11.8
+dataset/pos/cv001_tok-10180.txt
+Score: 0.3
+Magnitude: 17.8
+dataset/pos/cv003_tok-8338.txt
+Score: 0.3
+Magnitude: 13.5
+dataset/pos/cv004_tok-29856.txt
+Score: 0
+Magnitude: 4.2
+dataset/pos/cv005_tok-26110.txt
+Score: 0.2
+Magnitude: 9.9
+dataset/pos/cv006_tok-28887.txt
+Score: 0.1
+Magnitude: 6.1
+dataset/pos/cv007_tok-14417.txt
+Score: 0
+Magnitude: 10.4
+dataset/pos/cv008_tok-15650.txt
+Score: 0.1
+Magnitude: 15
+dataset/pos/cv009_tok-6385.txt
+Score: 0
+Magnitude: 9.3
+dataset/pos/cv010_tok-29740.txt
+Score: 0
+Magnitude: 13.2
+dataset/pos/cv011_tok-9168.txt
+Score: 0.1
+Magnitude: 24.8
+dataset/pos/cv012_tok-13106.txt
+Score: 0
+Magnitude: 20.9
+dataset/pos/cv013_tok-13924.txt
+Score: 0.1
+Magnitude: 20.3
+dataset/pos/cv014_tok-16534.txt
+Score: 0.1
+Magnitude: 16.9
+dataset/pos/cv015_tok-13846.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/pos/cv016_tok-9867.txt
+Score: -0.1
+Magnitude: 7.6
+dataset/pos/cv019_tok-11209.txt
+Score: 0
+Magnitude: 11.2
+dataset/pos/cv020_tok-10493.txt
+Score: -0.1
+Magnitude: 9.4
+dataset/pos/cv021_tok-9391.txt
+Score: 0.1
+Magnitude: 12
+dataset/pos/cv024_tok-20251.txt
+Score: 0
+Magnitude: 6.1
+dataset/pos/cv025_tok-12095.txt
+Score: 0.1
+Magnitude: 15.7
+dataset/pos/cv026_tok-29622.txt
+Score: 0
+Magnitude: 8.5
+dataset/pos/cv027_tok-18176.txt
+Score: 0.1
+Magnitude: 5.5
+dataset/pos/cv028_tok-22015.txt
+Score: 0
+Magnitude: 11.5
+dataset/pos/cv029_tok-10359.txt
+Score: 0
+Magnitude: 12.9
+dataset/pos/cv030_tok-11739.txt
+Score: 0.2
+Magnitude: 11.1
+dataset/pos/cv031_tok-10849.txt
+Score: 0
+Magnitude: 13.7
+dataset/pos/cv032_tok-18177.txt
+Score: 0
+Magnitude: 5.1
+
+greater than 0.0
+Correct:13
+count: 28
+0.464285714286
+
+greater or equal to 0.0
+Correct:26
+count: 28
+0.928571428571

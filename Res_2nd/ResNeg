@@ -1,0 +1,88 @@
+dataset/neg/cv000_tok-9611.txt
+Score: -0.2
+Magnitude: 5.8
+dataset/neg/cv001_tok-19324.txt
+Score: 0
+Magnitude: 18.2
+dataset/neg/cv002_tok-3321.txt
+Score: 0
+Magnitude: 7.7
+dataset/neg/cv003_tok-13044.txt
+Score: 0
+Magnitude: 9.2
+dataset/neg/cv004_tok-25944.txt
+Score: -0.1
+Magnitude: 20.2
+dataset/neg/cv005_tok-24602.txt
+Score: -0.3
+Magnitude: 13.3
+dataset/neg/cv006_tok-29539.txt
+Score: -0.2
+Magnitude: 10.3
+dataset/neg/cv007_tok-11669.txt
+Score: 0.1
+Magnitude: 7.4
+dataset/neg/cv009_tok-19587.txt
+Score: -0.1
+Magnitude: 11.1
+dataset/neg/cv010_tok-2188.txt
+Score: 0
+Magnitude: 3.1
+dataset/neg/cv011_tok-7845.txt
+Score: -0.5
+Magnitude: 8.9
+dataset/neg/cv013_tok-14854.txt
+Score: -0.1
+Magnitude: 12.4
+dataset/neg/cv014_tok-12391.txt
+Score: -0.2
+Magnitude: 12.7
+dataset/neg/cv015_tok-23730.txt
+Score: -0.3
+Magnitude: 9.5
+dataset/neg/cv016_tok-16970.txt
+Score: -0.1
+Magnitude: 6.2
+dataset/neg/cv017_tok-27221.txt
+Score: -0.2
+Magnitude: 11.4
+dataset/neg/cv019_tok-2003.txt
+Score: -0.1
+Magnitude: 14.7
+dataset/neg/cv020_tok-13096.txt
+Score: 0
+Magnitude: 14.3
+dataset/neg/cv022_tok-25633.txt
+Score: -0.4
+Magnitude: 9.3
+dataset/neg/cv023_tok-25625.txt
+Score: -0.3
+Magnitude: 6
+dataset/neg/cv025_tok-12991.txt
+Score: -0.1
+Magnitude: 7.7
+dataset/neg/cv026_tok-23590.txt
+Score: -0.2
+Magnitude: 4.6
+dataset/neg/cv027_tok-20123.txt
+Score: -0.2
+Magnitude: 8.3
+dataset/neg/cv028_tok-25883.txt
+Score: -0.4
+Magnitude: 17.7
+dataset/neg/cv029_tok-27815.txt
+Score: -0.2
+Magnitude: 15
+dataset/neg/cv030_tok-23788.txt
+Score: 0
+Magnitude: 7.7
+
+less than 0.0
+Correct:19
+count: 26
+0.730769230769
+
+less and equal to 0.0
+Correct:25
+count: 26
+0.961538461538
