@@ -17,6 +17,7 @@ while temp:
         break
     temp = f.readline()
 
+f.close()
 print('Correct:' + str(correct))
 print('count: ' + str(count))
 print(float(correct)/float(count))
