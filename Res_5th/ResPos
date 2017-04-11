@@ -1,3013 +1,3003 @@
-dataset/review_polarity_IWeYou/pos/cv000_29590.txt
-Score: -0.1
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv001_18431.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv002_15918.txt
+dataset/review_polarity_LastFive/pos/cv000_29590.txt
 Score: 0.2
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv003_11664.txt
-Score: 0
 Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv004_11636.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv005_29443.txt
-Score: -0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv006_15448.txt
-Score: -0.1
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv007_4968.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv008_29435.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv009_29592.txt
+dataset/review_polarity_LastFive/pos/cv001_18431.txt
+Score: -0.5
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv002_15918.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv010_29198.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv011_12166.txt
-Score: -0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv012_29576.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv013_10159.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv014_13924.txt
-Score: -0.3
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv015_29439.txt
-Score: 0.2
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv016_4659.txt
-Score: 0.2
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv017_22464.txt
-Score: 0.4
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv018_20137.txt
-Score: 0.1
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv019_14482.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv020_8825.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv021_15838.txt
-Score: 0
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv022_12864.txt
-Score: -0.1
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv023_12672.txt
-Score: -0.3
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv024_6778.txt
-Score: -0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv025_3108.txt
-Score: -0.4
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv026_29325.txt
-Score: 0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv027_25219.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv028_26746.txt
-Score: -0.4
 Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv029_18643.txt
-Score: 0
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv030_21593.txt
-Score: -0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv031_18452.txt
-Score: -0.1
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv032_22550.txt
+dataset/review_polarity_LastFive/pos/cv003_11664.txt
 Score: 0.1
 Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv033_24444.txt
-Score: 0.2
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv034_29647.txt
-Score: -0.4
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv035_3954.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv036_16831.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv037_18510.txt
-Score: 0
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv038_9749.txt
+dataset/review_polarity_LastFive/pos/cv004_11636.txt
 Score: 0.3
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv039_6170.txt
-Score: 0.2
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv040_8276.txt
-Score: -0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv041_21113.txt
-Score: 0.5
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv042_10982.txt
-Score: 0.1
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv043_15013.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv044_16969.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv045_23923.txt
-Score: 0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv046_10188.txt
-Score: 0.1
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv047_1754.txt
-Score: 0.5
-Magnitude: 6.4
-dataset/review_polarity_IWeYou/pos/cv048_16828.txt
-Score: 0.4
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv049_20471.txt
-Score: 0.1
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv050_11175.txt
-Score: -0.2
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv051_10306.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv052_29378.txt
-Score: 0.2
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv053_21822.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv054_4230.txt
-Score: -0.2
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv055_8338.txt
-Score: 0.4
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv056_13133.txt
-Score: 0.5
 Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv057_7453.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv058_8025.txt
+dataset/review_polarity_LastFive/pos/cv005_29443.txt
+Score: 0.3
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv006_15448.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv059_28885.txt
-Score: -0.5
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv060_10844.txt
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv007_4968.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv008_29435.txt
+Score: 0.2
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv009_29592.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv010_29198.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv011_12166.txt
 Score: 0
 Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv061_8837.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv062_23115.txt
-Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv063_28997.txt
+dataset/review_polarity_LastFive/pos/cv012_29576.txt
+Score: -0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv013_10159.txt
+Score: 0.3
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv014_13924.txt
+Score: 0.4
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv015_29439.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv016_4659.txt
+Score: 0.3
+Magnitude: 3.4
+dataset/review_polarity_LastFive/pos/cv017_22464.txt
+Score: 0.5
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv018_20137.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv064_24576.txt
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv019_14482.txt
+Score: 0
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv020_8825.txt
+Score: 0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv021_15838.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv022_12864.txt
 Score: -0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv023_12672.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv024_6778.txt
+Score: -0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv025_3108.txt
+Score: -0.1
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv026_29325.txt
+Score: 0.2
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv027_25219.txt
+Score: 0.8
+Magnitude: 3.2
+dataset/review_polarity_LastFive/pos/cv028_26746.txt
+Score: -0.3
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv029_18643.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv030_21593.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv031_18452.txt
+Score: -0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv032_22550.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv033_24444.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv034_29647.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv035_3954.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv036_16831.txt
+Score: 0.1
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv037_18510.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv038_9749.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv039_6170.txt
+Score: 0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv040_8276.txt
+Score: -0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv041_21113.txt
+Score: 0.4
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv042_10982.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv043_15013.txt
+Score: 0.8
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv044_16969.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv045_23923.txt
+Score: 0.4
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv046_10188.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv047_1754.txt
+Score: 0.5
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv048_16828.txt
+Score: 0.4
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv049_20471.txt
+Score: 0.4
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv050_11175.txt
+Score: -0.3
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv051_10306.txt
+Score: 0.4
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv052_29378.txt
+Score: 0.8
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv053_21822.txt
+Score: -0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv054_4230.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv055_8338.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv056_13133.txt
+Score: 0.3
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv057_7453.txt
+Score: 0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv058_8025.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv059_28885.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv060_10844.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv061_8837.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv062_23115.txt
+Score: 0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv063_28997.txt
+Score: -0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv064_24576.txt
+Score: 0.1
 Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv065_15248.txt
+dataset/review_polarity_LastFive/pos/cv065_15248.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv066_10821.txt
+Score: 0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv067_19774.txt
+Score: 0
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv068_13400.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv069_10801.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv070_12289.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv071_12095.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv072_6169.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv073_21785.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv074_6875.txt
+Score: 0
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv075_6500.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv076_24945.txt
+Score: -0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv077_22138.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv078_14730.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv079_11933.txt
+Score: 0.3
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv080_13465.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv081_16582.txt
+Score: 0.5
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv082_11080.txt
+Score: 0.1
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv083_24234.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv084_13566.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv085_1381.txt
+Score: 0.5
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv086_18371.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv087_1989.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv088_24113.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv089_11418.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv090_0042.txt
+Score: 0.4
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv091_7400.txt
+Score: -0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv092_28017.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv093_13951.txt
+Score: -0.2
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv094_27889.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv095_28892.txt
+Score: -0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv096_11474.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv097_24970.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv098_15435.txt
+Score: 0.3
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv099_10534.txt
+Score: -0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv100_11528.txt
+Score: 0.7
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv101_10175.txt
+Score: -0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv102_7846.txt
+Score: 0.3
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv103_11021.txt
+Score: -0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv104_18134.txt
 Score: -0.2
 Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv066_10821.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv067_19774.txt
-Score: 0
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv068_13400.txt
-Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv069_10801.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv070_12289.txt
+dataset/review_polarity_LastFive/pos/cv105_17990.txt
 Score: 0.5
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv071_12095.txt
-Score: 0.1
-Magnitude: 4.5
-dataset/review_polarity_IWeYou/pos/cv072_6169.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv073_21785.txt
-Score: -0.5
 Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv074_6875.txt
+dataset/review_polarity_LastFive/pos/cv106_16807.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv107_24319.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv108_15571.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv109_21172.txt
+Score: -0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv110_27788.txt
+Score: 0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv111_11473.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv112_11193.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv113_23102.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv114_18398.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv115_25396.txt
+Score: 0.7
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv116_28942.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv117_24295.txt
+Score: -0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv118_28980.txt
+Score: -0.1
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv119_9867.txt
+Score: 0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv120_4111.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv121_17302.txt
+Score: 0
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv122_7392.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv123_11182.txt
+Score: 0.6
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv124_4122.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv125_9391.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv126_28971.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv127_14711.txt
+Score: 0.7
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv128_29627.txt
+Score: 0.3
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv129_16741.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv130_17083.txt
+Score: 0.6
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv131_10713.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv132_5618.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv133_16336.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv134_22246.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv135_11603.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv136_11505.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv137_15422.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv138_12721.txt
+Score: 0.3
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv139_12873.txt
+Score: -0.1
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv140_7479.txt
+Score: 0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv141_15686.txt
+Score: -0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv142_22516.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv143_19666.txt
+Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv144_5007.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv145_11472.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv146_18458.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv147_21193.txt
+Score: 0.4
+Magnitude: 3.4
+dataset/review_polarity_LastFive/pos/cv148_16345.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv149_15670.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv150_12916.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv151_15771.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv152_8736.txt
+Score: 0.3
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv153_10779.txt
+Score: 0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv154_9328.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv155_7308.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv156_10481.txt
+Score: 0.6
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv157_29372.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv158_10390.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv159_29505.txt
+Score: -0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv160_10362.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv161_11425.txt
+Score: -0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv162_10424.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv163_10052.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv164_22447.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv165_22619.txt
+Score: 0
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv166_11052.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv167_16376.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv168_7050.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv169_23778.txt
+Score: 0.1
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv170_3006.txt
+Score: 0.4
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv171_13537.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv172_11131.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv173_4471.txt
+Score: 0.5
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv174_9659.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv175_6964.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv176_12857.txt
+Score: 0.2
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv177_10367.txt
+Score: 0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv178_12972.txt
+Score: -0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv179_9228.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv180_16113.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv181_14401.txt
+Score: 0.7
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv182_7281.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv183_18612.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv184_2673.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv185_28654.txt
+Score: 0.1
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv186_2269.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv187_12829.txt
 Score: 0.2
 Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv075_6500.txt
-Score: 0.2
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv076_24945.txt
-Score: 0
-Magnitude: 4
-dataset/review_polarity_IWeYou/pos/cv077_22138.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv078_14730.txt
-Score: -0.1
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv079_11933.txt
-Score: -0.4
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv080_13465.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv081_16582.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv082_11080.txt
-Score: 0
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv083_24234.txt
-Score: 0
-Magnitude: 4.5
-dataset/review_polarity_IWeYou/pos/cv084_13566.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv085_1381.txt
-Score: 0
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv086_18371.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv087_1989.txt
-Score: 0.1
-Magnitude: 4.6
-dataset/review_polarity_IWeYou/pos/cv088_24113.txt
-Score: -0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv089_11418.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv090_0042.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv091_7400.txt
-Score: -0.1
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv092_28017.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv093_13951.txt
-Score: -0.1
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv094_27889.txt
-Score: 0.7
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv095_28892.txt
-Score: 0.1
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv096_11474.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv097_24970.txt
-Score: 0.2
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv098_15435.txt
-Score: 0.2
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv099_10534.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv100_11528.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv101_10175.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv102_7846.txt
-Score: 0.2
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv103_11021.txt
-Score: -0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv104_18134.txt
-Score: 0.1
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv105_17990.txt
-Score: -0.2
-Magnitude: 5.5
-dataset/review_polarity_IWeYou/pos/cv106_16807.txt
-Score: 0.3
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv107_24319.txt
-Score: 0
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv108_15571.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv109_21172.txt
-Score: -0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv110_27788.txt
-Score: 0.1
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv111_11473.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv112_11193.txt
-Score: 0.1
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv113_23102.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv114_18398.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv115_25396.txt
-Score: 0.1
-Magnitude: 5
-dataset/review_polarity_IWeYou/pos/cv116_28942.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv117_24295.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv118_28980.txt
-Score: 0
-Magnitude: 5.9
-dataset/review_polarity_IWeYou/pos/cv119_9867.txt
-Score: -0.1
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv120_4111.txt
-Score: -0.1
+dataset/review_polarity_LastFive/pos/cv188_19226.txt
+Score: -0.3
 Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv121_17302.txt
-Score: -0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv122_7392.txt
+dataset/review_polarity_LastFive/pos/cv189_22934.txt
 Score: -0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv123_11182.txt
-Score: 0.2
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv124_4122.txt
-Score: 0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv125_9391.txt
-Score: 0
+Magnitude: 0.1
+dataset/review_polarity_LastFive/pos/cv190_27052.txt
+Score: 0.6
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv191_29719.txt
+Score: 0.1
 Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv126_28971.txt
+dataset/review_polarity_LastFive/pos/cv192_14395.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv193_5416.txt
 Score: -0.1
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv194_12079.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv195_14528.txt
+Score: 0.6
 Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv127_14711.txt
-Score: -0.4
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv128_29627.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv129_16741.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv130_17083.txt
+dataset/review_polarity_LastFive/pos/cv196_29027.txt
+Score: -0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv197_29328.txt
 Score: 0.1
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv131_10713.txt
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv198_18180.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv199_9629.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv200_2915.txt
+Score: -0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv201_6997.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv202_10654.txt
+Score: 0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv203_17986.txt
 Score: -0.3
-Magnitude: 4.5
-dataset/review_polarity_IWeYou/pos/cv132_5618.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv133_16336.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv134_22246.txt
-Score: 0.5
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv135_11603.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv136_11505.txt
-Score: 0.1
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv137_15422.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv138_12721.txt
-Score: 0.5
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv139_12873.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv140_7479.txt
-Score: -0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv141_15686.txt
-Score: 0
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv142_22516.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv143_19666.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv144_5007.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv145_11472.txt
-Score: -0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv146_18458.txt
-Score: 0.1
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv147_21193.txt
-Score: 0.2
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv148_16345.txt
-Score: 0
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv149_15670.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv150_12916.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv151_15771.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv152_8736.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv153_10779.txt
-Score: 0
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv154_9328.txt
-Score: 0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv155_7308.txt
-Score: 0.5
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv156_10481.txt
-Score: 0
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv157_29372.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv158_10390.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv159_29505.txt
-Score: -0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv160_10362.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv161_11425.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv162_10424.txt
-Score: 0.1
-Magnitude: 4
-dataset/review_polarity_IWeYou/pos/cv163_10052.txt
-Score: 0.4
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv164_22447.txt
-Score: 0.1
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv165_22619.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv166_11052.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv167_16376.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv168_7050.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv169_23778.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv170_3006.txt
-Score: 0.1
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv171_13537.txt
-Score: 0.3
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv172_11131.txt
-Score: 0.2
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv173_4471.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv174_9659.txt
-Score: 0.1
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv175_6964.txt
-Score: 0
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv176_12857.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv177_10367.txt
-Score: 0
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv178_12972.txt
-Score: -0.2
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv179_9228.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv180_16113.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv181_14401.txt
-Score: 0.3
 Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv182_7281.txt
-Score: 0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv183_18612.txt
-Score: 0
-Magnitude: 4.7
-dataset/review_polarity_IWeYou/pos/cv184_2673.txt
-Score: -0.1
+dataset/review_polarity_LastFive/pos/cv204_8451.txt
+Score: 0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv205_9457.txt
+Score: 0.3
 Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv185_28654.txt
-Score: 0
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv186_2269.txt
-Score: -0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv187_12829.txt
-Score: 0.1
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv188_19226.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv189_22934.txt
-Score: 0
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv190_27052.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv191_29719.txt
-Score: 0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv192_14395.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv193_5416.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv194_12079.txt
-Score: 0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv195_14528.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv196_29027.txt
-Score: 0
+dataset/review_polarity_LastFive/pos/cv206_14293.txt
+Score: 0.3
 Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv197_29328.txt
-Score: 0.2
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv198_18180.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv199_9629.txt
-Score: 0.1
-Magnitude: 6.6
-dataset/review_polarity_IWeYou/pos/cv200_2915.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv201_6997.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv202_10654.txt
-Score: 0
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv203_17986.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv204_8451.txt
-Score: 0.1
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv205_9457.txt
-Score: 0.2
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv206_14293.txt
-Score: 0.1
-Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv207_29284.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv208_9020.txt
-Score: -0.2
-Magnitude: 6.4
-dataset/review_polarity_IWeYou/pos/cv209_29118.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv210_9312.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv211_9953.txt
-Score: 0
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv212_10027.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv213_18934.txt
-Score: 0.1
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv214_12294.txt
-Score: -0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv215_22240.txt
+dataset/review_polarity_LastFive/pos/cv207_29284.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv208_9020.txt
 Score: 0
 Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv216_18738.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv217_28842.txt
-Score: 0.6
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv218_24352.txt
+dataset/review_polarity_LastFive/pos/cv209_29118.txt
 Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv219_18626.txt
-Score: -0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv220_29059.txt
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv210_9312.txt
 Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv221_2695.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv222_17395.txt
-Score: -0.2
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv223_29066.txt
-Score: -0.3
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv224_17661.txt
-Score: 0.3
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv225_29224.txt
-Score: 0.3
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv226_2618.txt
-Score: 0.3
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv227_24215.txt
-Score: 0.1
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv228_5806.txt
-Score: 0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv229_13611.txt
-Score: 0.4
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv230_7428.txt
-Score: -0.1
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv231_10425.txt
-Score: 0.9
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv232_14991.txt
-Score: 0.1
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv233_15964.txt
-Score: 0.4
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv234_20643.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv235_10217.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv236_11565.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv237_19221.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv238_12931.txt
-Score: 0.6
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv239_3385.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv240_14336.txt
-Score: -0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv241_23130.txt
-Score: 0
-Magnitude: 7.6
-dataset/review_polarity_IWeYou/pos/cv242_10638.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv243_20728.txt
-Score: -0.1
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv244_21649.txt
-Score: 0.1
 Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv245_8569.txt
-Score: -0.1
-Magnitude: 3.7
-dataset/review_polarity_IWeYou/pos/cv246_28807.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv247_13142.txt
+dataset/review_polarity_LastFive/pos/cv211_9953.txt
+Score: 0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv212_10027.txt
 Score: 0
-Magnitude: 4.7
-dataset/review_polarity_IWeYou/pos/cv248_13987.txt
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv213_18934.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv214_12294.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv215_22240.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv216_18738.txt
 Score: 0.2
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv249_11640.txt
-Score: -0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv250_25616.txt
-Score: -0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv251_22636.txt
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv217_28842.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv218_24352.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv219_18626.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv220_29059.txt
+Score: 0.6
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv221_2695.txt
+Score: 0.4
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv222_17395.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv223_29066.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv224_17661.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv225_29224.txt
 Score: 0
 Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv252_23779.txt
-Score: -0.2
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv253_10077.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv254_6027.txt
-Score: -0.3
+dataset/review_polarity_LastFive/pos/cv226_2618.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv227_24215.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv228_5806.txt
+Score: 0.1
 Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv255_13683.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv256_14740.txt
-Score: 0
-Magnitude: 5
-dataset/review_polarity_IWeYou/pos/cv257_10975.txt
-Score: 0
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv258_5792.txt
-Score: -0.3
+dataset/review_polarity_LastFive/pos/cv229_13611.txt
+Score: 0.5
 Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv259_10934.txt
-Score: -0.4
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv260_13959.txt
+dataset/review_polarity_LastFive/pos/cv230_7428.txt
 Score: 0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv261_10954.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv262_12649.txt
-Score: -0.6
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv263_19259.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv264_12801.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv265_10814.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv266_25779.txt
-Score: 0
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv267_14952.txt
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv231_10425.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv232_14991.txt
 Score: -0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv268_18834.txt
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv233_15964.txt
 Score: 0.2
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv269_21732.txt
-Score: -0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv270_6079.txt
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv234_20643.txt
+Score: 0.4
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv235_10217.txt
 Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv271_13837.txt
-Score: 0.2
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv272_18974.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv273_29112.txt
-Score: 0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv274_25253.txt
-Score: 0.1
-Magnitude: 5
-dataset/review_polarity_IWeYou/pos/cv275_28887.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv276_15684.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv277_19091.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv278_13041.txt
-Score: 0.2
-Magnitude: 4.4
-dataset/review_polarity_IWeYou/pos/cv279_18329.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv280_8267.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv281_23253.txt
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv236_11565.txt
+Score: 0.8
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv237_19221.txt
 Score: 0.5
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv282_6653.txt
-Score: 0
-Magnitude: 5.2
-dataset/review_polarity_IWeYou/pos/cv283_11055.txt
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv238_12931.txt
 Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv284_19119.txt
-Score: 0
-Magnitude: 5.7
-dataset/review_polarity_IWeYou/pos/cv285_16494.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv286_25050.txt
-Score: -0.1
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv287_15900.txt
-Score: -0.2
-Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv288_18791.txt
-Score: 0.6
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv289_6463.txt
-Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv290_11084.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv291_26635.txt
-Score: 0.5
 Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv292_7282.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv293_29856.txt
-Score: -0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv294_11684.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv295_15570.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv296_12251.txt
+dataset/review_polarity_LastFive/pos/cv239_3385.txt
 Score: -0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv297_10047.txt
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv240_14336.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv241_23130.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv242_10638.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv243_20728.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv244_21649.txt
+Score: 0.3
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv245_8569.txt
+Score: -0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv246_28807.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv247_13142.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv248_13987.txt
+Score: -0.1
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv249_11640.txt
+Score: 0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv250_25616.txt
+Score: -0.3
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv251_22636.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv252_23779.txt
+Score: -0.5
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv253_10077.txt
+Score: 0
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv254_6027.txt
+Score: -0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv255_13683.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv256_14740.txt
+Score: 0
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv257_10975.txt
 Score: -0.3
 Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv298_23111.txt
+dataset/review_polarity_LastFive/pos/cv258_5792.txt
 Score: 0.5
-Magnitude: 3.6
-dataset/review_polarity_IWeYou/pos/cv299_16214.txt
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv259_10934.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv260_13959.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv261_10954.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv262_12649.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv263_19259.txt
+Score: 0.1
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv264_12801.txt
+Score: -0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv265_10814.txt
+Score: 0.7
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv266_25779.txt
+Score: 0
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv267_14952.txt
+Score: -0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv268_18834.txt
+Score: 0.4
+Magnitude: 3.3
+dataset/review_polarity_LastFive/pos/cv269_21732.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv270_6079.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv271_13837.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv272_18974.txt
+Score: -0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv273_29112.txt
 Score: 0.1
 Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv300_22284.txt
-Score: -0.2
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv301_12146.txt
-Score: -0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv302_25649.txt
-Score: -0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv303_27520.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv304_28706.txt
+dataset/review_polarity_LastFive/pos/cv274_25253.txt
 Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv305_9946.txt
-Score: 0.1
-Magnitude: 3.6
-dataset/review_polarity_IWeYou/pos/cv306_10364.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv307_25270.txt
-Score: -0.1
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv308_5016.txt
-Score: -0.1
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv309_22571.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv310_13091.txt
-Score: 0
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv311_16002.txt
-Score: 0
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv312_29377.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv313_18198.txt
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv275_28887.txt
 Score: 0
 Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv314_14422.txt
+dataset/review_polarity_LastFive/pos/cv276_15684.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv277_19091.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv278_13041.txt
+Score: -0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv279_18329.txt
+Score: -0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv280_8267.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv281_23253.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv282_6653.txt
+Score: -0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv283_11055.txt
+Score: 0.5
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv284_19119.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv285_16494.txt
+Score: 0.4
+Magnitude: 3.7
+dataset/review_polarity_LastFive/pos/cv286_25050.txt
+Score: 0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv287_15900.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv288_18791.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv289_6463.txt
+Score: 0.6
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv290_11084.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv291_26635.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv292_7282.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv293_29856.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv294_11684.txt
+Score: 0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv295_15570.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv296_12251.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv297_10047.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv298_23111.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv299_16214.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv300_22284.txt
+Score: 0.2
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv301_12146.txt
+Score: 0
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv302_25649.txt
+Score: -0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv303_27520.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv304_28706.txt
+Score: 0.7
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv305_9946.txt
+Score: 0
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv306_10364.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv307_25270.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv308_5016.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv309_22571.txt
+Score: 0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv310_13091.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv311_16002.txt
+Score: 0.5
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv312_29377.txt
+Score: 0.7
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv313_18198.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv314_14422.txt
+Score: 0.1
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv315_11629.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv316_6370.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv317_24049.txt
+Score: -0.1
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv318_10493.txt
+Score: -0.1
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv319_14727.txt
+Score: 0.6
+Magnitude: 3.8
+dataset/review_polarity_LastFive/pos/cv320_9530.txt
+Score: -0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv321_12843.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv322_20318.txt
+Score: 0.3
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv323_29805.txt
+Score: -0.1
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv324_7082.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv325_16629.txt
+Score: -0.3
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv326_13295.txt
+Score: 0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv327_20292.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv328_10373.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv329_29370.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv330_29809.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv331_8273.txt
+Score: -0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv332_16307.txt
+Score: 0.6
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv333_8916.txt
+Score: 0.6
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv334_10001.txt
+Score: 0.7
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv335_14665.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv336_10143.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv337_29181.txt
+Score: 0.5
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv338_8821.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv339_21119.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv340_13287.txt
+Score: -0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv341_24430.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv342_19456.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv343_10368.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv344_5312.txt
+Score: 0.4
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv345_9954.txt
+Score: -0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv346_18168.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv347_13194.txt
+Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv348_18176.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv349_13507.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv350_20670.txt
+Score: 0.6
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv351_15458.txt
+Score: 0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv352_5524.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv353_18159.txt
+Score: 0.1
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv354_8132.txt
+Score: 0
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv355_16413.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv356_25163.txt
+Score: -0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv357_13156.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv358_10691.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv359_6647.txt
+Score: 0.8
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv360_8398.txt
+Score: 0.3
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv361_28944.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv362_15341.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv363_29332.txt
+Score: 0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv364_12901.txt
+Score: 0.6
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv365_11576.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv366_10221.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv367_22792.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv368_10466.txt
+Score: 0.1
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv369_12886.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv370_5221.txt
+Score: -0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv371_7630.txt
+Score: 0
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv372_6552.txt
+Score: 0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv373_20404.txt
+Score: 0
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv374_25436.txt
+Score: 0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv375_9929.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv376_19435.txt
+Score: 0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv377_7946.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv378_20629.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv379_21963.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv380_7574.txt
+Score: 0.5
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv381_20172.txt
+Score: 0.3
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv382_7897.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv383_13116.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv384_17140.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv385_29741.txt
+Score: 0.1
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv386_10080.txt
+Score: 0.4
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv387_11507.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv388_12009.txt
+Score: 0.4
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv389_9369.txt
+Score: 0
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv390_11345.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv391_10802.txt
+Score: -0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv392_11458.txt
+Score: -0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv393_29327.txt
+Score: 0.3
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv394_5137.txt
+Score: 0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv395_10849.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv396_17989.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv397_29023.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv398_15537.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv399_2877.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv400_19220.txt
+Score: -0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv401_12605.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv402_14425.txt
+Score: -0.5
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv403_6621.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv404_20315.txt
+Score: -0.2
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv405_20399.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv406_21020.txt
 Score: 0.3
 Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv315_11629.txt
+dataset/review_polarity_LastFive/pos/cv407_22637.txt
+Score: 0.5
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv408_5297.txt
 Score: 0
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv316_6370.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv317_24049.txt
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv409_29786.txt
+Score: 0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv410_24266.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv411_15007.txt
+Score: 0.6
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv412_24095.txt
+Score: 0.1
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv413_7398.txt
+Score: 0.3
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv414_10518.txt
 Score: -0.1
-Magnitude: 5.3
-dataset/review_polarity_IWeYou/pos/cv318_10493.txt
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv415_22517.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv416_11136.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv417_13115.txt
+Score: 0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv418_14774.txt
+Score: -0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv419_13394.txt
+Score: 0
+Magnitude: 0.1
+dataset/review_polarity_LastFive/pos/cv420_28795.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv421_9709.txt
+Score: 0.3
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv422_9381.txt
+Score: 0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv423_11155.txt
+Score: 0.4
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv424_8831.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv425_8250.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv426_10421.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv427_10825.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv428_11347.txt
+Score: 0.3
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv429_7439.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv430_17351.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv431_7085.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv432_14224.txt
+Score: 0
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv433_10144.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv434_5793.txt
+Score: 0.5
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv435_23110.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv436_19179.txt
+Score: -0.2
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv437_22849.txt
+Score: -0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv438_8043.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv439_15970.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv440_15243.txt
+Score: 0
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv441_13711.txt
+Score: -0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv442_13846.txt
+Score: 0
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv443_21118.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv444_9974.txt
+Score: 0.5
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv445_25882.txt
+Score: -0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv446_11353.txt
+Score: 0.1
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv447_27332.txt
+Score: 0.1
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv448_14695.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv449_8785.txt
+Score: 0.1
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv450_7890.txt
 Score: 0
 Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv319_14727.txt
-Score: 0.7
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv320_9530.txt
+dataset/review_polarity_LastFive/pos/cv451_10690.txt
 Score: 0
-Magnitude: 5.6
-dataset/review_polarity_IWeYou/pos/cv321_12843.txt
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv452_5088.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv453_10379.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv454_2053.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv455_29000.txt
 Score: -0.2
 Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv322_20318.txt
-Score: -0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv323_29805.txt
+dataset/review_polarity_LastFive/pos/cv456_18985.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv457_18453.txt
+Score: 0
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv458_8604.txt
+Score: -0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv459_20319.txt
+Score: 0
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv460_10842.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv461_19600.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv462_19350.txt
+Score: -0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv463_10343.txt
 Score: 0.1
 Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv324_7082.txt
-Score: 0.5
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv325_16629.txt
-Score: -0.2
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv326_13295.txt
+dataset/review_polarity_LastFive/pos/cv464_15650.txt
 Score: 0.1
 Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv327_20292.txt
-Score: 0.4
-Magnitude: 7
-dataset/review_polarity_IWeYou/pos/cv328_10373.txt
-Score: -0.1
-Magnitude: 5.5
-dataset/review_polarity_IWeYou/pos/cv329_29370.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv330_29809.txt
-Score: -0.3
+dataset/review_polarity_LastFive/pos/cv465_22431.txt
+Score: 0.2
 Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv331_8273.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv332_16307.txt
-Score: -0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv333_8916.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv334_10001.txt
+dataset/review_polarity_LastFive/pos/cv466_18722.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv467_25773.txt
 Score: -0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv335_14665.txt
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv468_15228.txt
+Score: 0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv469_20630.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv470_15952.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv471_16858.txt
+Score: 0.4
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv472_29280.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv473_7367.txt
+Score: 0.6
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv474_10209.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv475_21692.txt
+Score: 0
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv476_16856.txt
+Score: 0.6
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv477_22479.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv478_14309.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv479_5649.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv480_19817.txt
+Score: 0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv481_7436.txt
+Score: 0.7
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv482_10580.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv483_16378.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv484_25054.txt
+Score: -0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv485_26649.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv486_9799.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv487_10446.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv488_19856.txt
+Score: -0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv489_17906.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv490_17872.txt
 Score: -0.8
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv336_10143.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv337_29181.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv338_8821.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv339_21119.txt
-Score: -0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv340_13287.txt
-Score: -0.2
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv341_24430.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv342_19456.txt
-Score: 0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv343_10368.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv344_5312.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv345_9954.txt
-Score: 0
-Magnitude: 11.1
-dataset/review_polarity_IWeYou/pos/cv346_18168.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv347_13194.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv348_18176.txt
-Score: 0.2
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv349_13507.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv350_20670.txt
-Score: 0.1
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv351_15458.txt
-Score: 0.2
 Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv352_5524.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv353_18159.txt
-Score: 0.3
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv354_8132.txt
-Score: -0.2
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv355_16413.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv356_25163.txt
-Score: -0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv357_13156.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv358_10691.txt
-Score: 0.2
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv359_6647.txt
-Score: 0.7
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv360_8398.txt
-Score: 0
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv361_28944.txt
+dataset/review_polarity_LastFive/pos/cv491_12145.txt
 Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv362_15341.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv363_29332.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv364_12901.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv365_11576.txt
-Score: -0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv492_18271.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv493_12839.txt
+Score: 0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv494_17389.txt
+Score: 0.5
+Magnitude: 3.5
+dataset/review_polarity_LastFive/pos/cv495_14518.txt
+Score: -0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv496_10530.txt
+Score: -0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv497_26980.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv498_8832.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv499_10658.txt
+Score: 0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv500_10251.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv501_11657.txt
+Score: -0.1
 Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv366_10221.txt
+dataset/review_polarity_LastFive/pos/cv502_10406.txt
 Score: 0
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv367_22792.txt
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv503_10558.txt
+Score: 0.7
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv504_29243.txt
+Score: 0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv505_12090.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv506_15956.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv507_9220.txt
+Score: -0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv508_16006.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv509_15888.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv510_23360.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv511_10132.txt
+Score: 0.6
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv512_15965.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv513_6923.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv514_11187.txt
+Score: 0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv515_17069.txt
+Score: 0.3
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv516_11172.txt
+Score: 0
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv517_19219.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv518_13331.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv519_14661.txt
+Score: -0.3
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv520_12295.txt
+Score: 0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv521_15828.txt
+Score: 0.7
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv522_5583.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv523_16615.txt
+Score: 0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv524_23627.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv525_16122.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv526_12083.txt
+Score: 0.1
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv527_10123.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv528_10822.txt
 Score: 0
 Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv368_10466.txt
+dataset/review_polarity_LastFive/pos/cv529_10420.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv530_16212.txt
 Score: 0.1
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv369_12886.txt
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv531_26486.txt
 Score: 0.1
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv370_5221.txt
-Score: -0.1
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv371_7630.txt
-Score: 0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv372_6552.txt
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv532_6522.txt
 Score: 0
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv533_9821.txt
+Score: 0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv534_14083.txt
+Score: -0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv535_19728.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv536_27134.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv537_12370.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv538_28667.txt
+Score: 0.2
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv539_20347.txt
+Score: -0.1
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv540_3421.txt
+Score: -0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv541_28835.txt
+Score: 0.1
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv542_18980.txt
+Score: 0.6
+Magnitude: 3.2
+dataset/review_polarity_LastFive/pos/cv543_5045.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv544_5108.txt
+Score: -0.6
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv545_12014.txt
+Score: 0
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv546_11767.txt
+Score: 0.4
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv547_16324.txt
+Score: 0
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv548_17731.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv549_21443.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv550_22211.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv551_10565.txt
+Score: 0.2
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv552_10016.txt
+Score: 0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv553_26915.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv554_13151.txt
+Score: 0.4
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv555_23922.txt
+Score: -0.1
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv556_14808.txt
+Score: 0.4
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv557_11449.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv558_29507.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv559_0050.txt
+Score: 0.5
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv560_17175.txt
+Score: 0.2
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv561_9201.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv562_10359.txt
+Score: 0.3
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv563_17257.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv564_11110.txt
+Score: 0.2
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv565_29572.txt
+Score: 0.3
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv566_8581.txt
+Score: 0.2
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv567_29611.txt
+Score: 0.5
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv568_15638.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv569_26381.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv570_29082.txt
+Score: -0.2
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv571_29366.txt
+Score: 0.2
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv572_18657.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv573_29525.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv574_22156.txt
+Score: -0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv575_21150.txt
+Score: 0.5
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv576_14094.txt
+Score: 0.3
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv577_28549.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv578_15094.txt
+Score: 0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv579_11605.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv580_14064.txt
+Score: -0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv581_19381.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv582_6559.txt
+Score: 0.4
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv583_29692.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv584_29722.txt
+Score: -0.4
 Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv373_20404.txt
+dataset/review_polarity_LastFive/pos/cv585_22496.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv586_7543.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv587_19162.txt
+Score: 0.8
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv588_13008.txt
+Score: 0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv589_12064.txt
+Score: -0.1
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv590_19290.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv591_23640.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv592_22315.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv593_10987.txt
+Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv594_11039.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv595_25335.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv596_28311.txt
+Score: 0.3
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv597_26360.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv598_16452.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv599_20988.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv600_23878.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv601_23453.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv602_8300.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv603_17694.txt
+Score: -0.1
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv604_2230.txt
+Score: 0.3
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv605_11800.txt
+Score: 0.5
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv606_15985.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv607_7717.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv608_23231.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv609_23877.txt
+Score: 0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv610_2287.txt
+Score: 0.4
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv611_21120.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv612_5461.txt
+Score: 0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv613_21796.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv614_10626.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv615_14182.txt
+Score: 0.3
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv616_29319.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv617_9322.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv618_8974.txt
+Score: 0.2
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv619_12462.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv620_24265.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv621_14368.txt
+Score: 0.3
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv622_8147.txt
+Score: 0.6
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv623_15356.txt
+Score: 0
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv624_10744.txt
+Score: 0.4
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv625_12440.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv626_7410.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv627_11620.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv628_19325.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv629_14909.txt
+Score: 0.8
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv630_10057.txt
+Score: 0
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv631_4967.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv632_9610.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv633_29837.txt
+Score: -0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv634_11101.txt
+Score: -0.3
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv635_10022.txt
+Score: 0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv636_15279.txt
+Score: 0.5
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv637_1250.txt
 Score: -0.5
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv374_25436.txt
-Score: -0.1
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv375_9929.txt
-Score: 0.1
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv376_19435.txt
-Score: 0.1
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv377_7946.txt
-Score: 0.1
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv378_20629.txt
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv638_2953.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv379_21963.txt
-Score: 0.3
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv639_10308.txt
+Score: 0
 Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv380_7574.txt
-Score: -0.3
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv381_20172.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv382_7897.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv383_13116.txt
-Score: 0
-Magnitude: 10.9
-dataset/review_polarity_IWeYou/pos/cv384_17140.txt
+dataset/review_polarity_LastFive/pos/cv640_5378.txt
 Score: 0.3
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv385_29741.txt
-Score: 0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv386_10080.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv387_11507.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv388_12009.txt
-Score: -0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv389_9369.txt
-Score: -0.1
 Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv390_11345.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv391_10802.txt
-Score: -0.2
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv392_11458.txt
-Score: 0
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv393_29327.txt
-Score: 0.2
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv394_5137.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv395_10849.txt
-Score: 0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv396_17989.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv397_29023.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv398_15537.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv399_2877.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv400_19220.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv401_12605.txt
+dataset/review_polarity_LastFive/pos/cv641_12349.txt
 Score: -0.1
-Magnitude: 12.4
-dataset/review_polarity_IWeYou/pos/cv402_14425.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv403_6621.txt
-Score: 0.6
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv642_29867.txt
+Score: -0.1
 Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv404_20315.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv405_20399.txt
+dataset/review_polarity_LastFive/pos/cv643_29349.txt
 Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv406_21020.txt
-Score: 0.6
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv407_22637.txt
-Score: 0
-Magnitude: 3.7
-dataset/review_polarity_IWeYou/pos/cv408_5297.txt
-Score: -0.1
-Magnitude: 3.6
-dataset/review_polarity_IWeYou/pos/cv409_29786.txt
-Score: 0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv410_24266.txt
-Score: 0.1
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv411_15007.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv412_24095.txt
-Score: 0.1
-Magnitude: 4.9
-dataset/review_polarity_IWeYou/pos/cv413_7398.txt
-Score: 0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv414_10518.txt
-Score: 0
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv415_22517.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv416_11136.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv417_13115.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv418_14774.txt
-Score: 0
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv419_13394.txt
-Score: -0.4
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv420_28795.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv421_9709.txt
-Score: 0.1
-Magnitude: 7.5
-dataset/review_polarity_IWeYou/pos/cv422_9381.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv423_11155.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv424_8831.txt
-Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv425_8250.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv426_10421.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv427_10825.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv428_11347.txt
-Score: 0.8
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv429_7439.txt
-Score: 0.7
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv430_17351.txt
-Score: 0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv431_7085.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv432_14224.txt
-Score: 0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv433_10144.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv434_5793.txt
-Score: -0.1
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv435_23110.txt
-Score: 0
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv436_19179.txt
-Score: -0.3
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv437_22849.txt
-Score: 0
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv438_8043.txt
-Score: -0.1
 Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv439_15970.txt
-Score: 0.1
-Magnitude: 4.2
-dataset/review_polarity_IWeYou/pos/cv440_15243.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv441_13711.txt
-Score: -0.1
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv442_13846.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv443_21118.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv444_9974.txt
-Score: 0.1
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv445_25882.txt
+dataset/review_polarity_LastFive/pos/cv644_17154.txt
+Score: -0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv645_15668.txt
 Score: -0.1
 Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv446_11353.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv447_27332.txt
-Score: 0.1
-Magnitude: 4
-dataset/review_polarity_IWeYou/pos/cv448_14695.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv449_8785.txt
-Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv450_7890.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv451_10690.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv452_5088.txt
-Score: 0.3
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv453_10379.txt
-Score: 0.1
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv454_2053.txt
-Score: -0.3
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv455_29000.txt
-Score: 0
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv456_18985.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv457_18453.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv458_8604.txt
-Score: 0.3
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv459_20319.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv460_10842.txt
-Score: 0.1
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv461_19600.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv462_19350.txt
-Score: -0.1
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv463_10343.txt
-Score: 0.5
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv464_15650.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv465_22431.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv466_18722.txt
-Score: -0.2
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv467_25773.txt
-Score: -0.6
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv468_15228.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv469_20630.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv470_15952.txt
-Score: 0.1
-Magnitude: 6.1
-dataset/review_polarity_IWeYou/pos/cv471_16858.txt
-Score: 0.3
+dataset/review_polarity_LastFive/pos/cv646_15065.txt
+Score: 0.6
 Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv472_29280.txt
-Score: 0
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv473_7367.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv474_10209.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv475_21692.txt
-Score: 0.3
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv476_16856.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv477_22479.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv478_14309.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv479_5649.txt
-Score: -0.4
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv480_19817.txt
-Score: -0.1
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv481_7436.txt
-Score: 0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv482_10580.txt
-Score: 0.3
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv483_16378.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv484_25054.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv485_26649.txt
-Score: 0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv486_9799.txt
-Score: -0.6
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv487_10446.txt
-Score: -0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv488_19856.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv489_17906.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv490_17872.txt
-Score: -0.4
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv491_12145.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv492_18271.txt
-Score: 0.1
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv493_12839.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv494_17389.txt
-Score: 0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv495_14518.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv496_10530.txt
-Score: 0
-Magnitude: 5.2
-dataset/review_polarity_IWeYou/pos/cv497_26980.txt
-Score: 0.1
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv498_8832.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv499_10658.txt
-Score: -0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv500_10251.txt
-Score: -0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv501_11657.txt
-Score: 0
-Magnitude: 7.3
-dataset/review_polarity_IWeYou/pos/cv502_10406.txt
-Score: -0.1
-Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv503_10558.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv504_29243.txt
-Score: 0
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv505_12090.txt
-Score: -0.2
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv506_15956.txt
-Score: -0.1
-Magnitude: 4.6
-dataset/review_polarity_IWeYou/pos/cv507_9220.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv508_16006.txt
-Score: 0.1
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv509_15888.txt
-Score: 0.3
-Magnitude: 7.9
-dataset/review_polarity_IWeYou/pos/cv510_23360.txt
-Score: -0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv511_10132.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv512_15965.txt
-Score: -0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv513_6923.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv514_11187.txt
-Score: 0.8
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv515_17069.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv516_11172.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv517_19219.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv518_13331.txt
-Score: -0.1
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv519_14661.txt
-Score: 0
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv520_12295.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv521_15828.txt
-Score: 0.2
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv522_5583.txt
-Score: 0
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv523_16615.txt
-Score: 0.4
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv524_23627.txt
-Score: 0.2
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv525_16122.txt
-Score: -0.4
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv526_12083.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv527_10123.txt
-Score: 0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv528_10822.txt
-Score: 0.3
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv529_10420.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv530_16212.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv531_26486.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv532_6522.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv533_9821.txt
-Score: 0
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv534_14083.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv535_19728.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv536_27134.txt
-Score: 0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv537_12370.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv538_28667.txt
-Score: 0.4
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv539_20347.txt
-Score: -0.1
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv540_3421.txt
-Score: 0
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv541_28835.txt
+dataset/review_polarity_LastFive/pos/cv647_13691.txt
 Score: -0.1
 Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv542_18980.txt
-Score: 0.4
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv543_5045.txt
-Score: 0
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv544_5108.txt
-Score: 0
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv545_12014.txt
-Score: 0
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv546_11767.txt
-Score: 0.3
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv547_16324.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv548_17731.txt
-Score: -0.1
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv549_21443.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv550_22211.txt
-Score: 0
-Magnitude: 4.8
-dataset/review_polarity_IWeYou/pos/cv551_10565.txt
-Score: 0
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv552_10016.txt
-Score: -0.4
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv553_26915.txt
-Score: 0.1
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv554_13151.txt
-Score: 0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv555_23922.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv556_14808.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv557_11449.txt
-Score: -0.3
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv558_29507.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv559_0050.txt
-Score: 0
-Magnitude: 4.8
-dataset/review_polarity_IWeYou/pos/cv560_17175.txt
-Score: -0.1
-Magnitude: 6.1
-dataset/review_polarity_IWeYou/pos/cv561_9201.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv562_10359.txt
-Score: 0.6
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv563_17257.txt
-Score: -0.3
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv564_11110.txt
-Score: 0
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv565_29572.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv566_8581.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv567_29611.txt
-Score: 0.2
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv568_15638.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv569_26381.txt
-Score: 0
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv570_29082.txt
-Score: -0.1
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv571_29366.txt
-Score: 0
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv572_18657.txt
-Score: 0
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv573_29525.txt
-Score: -0.1
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv574_22156.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv575_21150.txt
-Score: 0.2
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv576_14094.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv577_28549.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv578_15094.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv579_11605.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv580_14064.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv581_19381.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv582_6559.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv583_29692.txt
-Score: 0
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv584_29722.txt
-Score: -0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv585_22496.txt
-Score: 0.3
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv586_7543.txt
-Score: 0.4
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv587_19162.txt
-Score: 0.3
-Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv588_13008.txt
-Score: -0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv589_12064.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv590_19290.txt
+dataset/review_polarity_LastFive/pos/cv648_15792.txt
 Score: 0
 Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv591_23640.txt
-Score: 0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv592_22315.txt
+dataset/review_polarity_LastFive/pos/cv649_12735.txt
 Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv593_10987.txt
-Score: 0
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv594_11039.txt
-Score: 0
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv595_25335.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv596_28311.txt
-Score: 0.6
-Magnitude: 4.2
-dataset/review_polarity_IWeYou/pos/cv597_26360.txt
-Score: 0
-Magnitude: 4.5
-dataset/review_polarity_IWeYou/pos/cv598_16452.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv599_20988.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv600_23878.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv601_23453.txt
-Score: 0
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv602_8300.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv603_17694.txt
-Score: 0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv604_2230.txt
-Score: 0
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv605_11800.txt
-Score: 0.6
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv606_15985.txt
-Score: 0
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv607_7717.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv608_23231.txt
-Score: -0.1
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv609_23877.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv610_2287.txt
-Score: 0
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv611_21120.txt
-Score: 0.2
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv612_5461.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv613_21796.txt
-Score: 0
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv614_10626.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv615_14182.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv616_29319.txt
-Score: 0.1
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv617_9322.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv618_8974.txt
-Score: 0
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv619_12462.txt
-Score: 0.3
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv620_24265.txt
-Score: 0
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv621_14368.txt
-Score: 0.1
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv622_8147.txt
-Score: 0.1
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv623_15356.txt
-Score: 0
-Magnitude: 9.1
-dataset/review_polarity_IWeYou/pos/cv624_10744.txt
-Score: -0.2
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv625_12440.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv626_7410.txt
-Score: 0
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv627_11620.txt
-Score: 0
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv628_19325.txt
-Score: 0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv629_14909.txt
-Score: 0.6
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv630_10057.txt
-Score: 0.5
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv631_4967.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv632_9610.txt
-Score: 0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv633_29837.txt
-Score: 0.4
 Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv634_11101.txt
-Score: 0.1
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv635_10022.txt
-Score: -0.3
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv636_15279.txt
-Score: -0.2
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv637_1250.txt
-Score: 0
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv638_2953.txt
-Score: 0
-Magnitude: 9.2
-dataset/review_polarity_IWeYou/pos/cv639_10308.txt
-Score: 0
-Magnitude: 4
-dataset/review_polarity_IWeYou/pos/cv640_5378.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv641_12349.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv642_29867.txt
-Score: 0
-Magnitude: 4.6
-dataset/review_polarity_IWeYou/pos/cv643_29349.txt
-Score: -0.1
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv644_17154.txt
-Score: 0
-Magnitude: 5.3
-dataset/review_polarity_IWeYou/pos/cv645_15668.txt
-Score: 0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv646_15065.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv647_13691.txt
+dataset/review_polarity_LastFive/pos/cv650_14340.txt
 Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv648_15792.txt
-Score: -0.6
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv649_12735.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv650_14340.txt
-Score: 0.3
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv651_10492.txt
-Score: -0.2
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv652_13972.txt
-Score: 0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv653_19583.txt
-Score: 0.1
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv654_18246.txt
-Score: 0.5
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv655_11154.txt
-Score: -0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv656_24201.txt
-Score: 0
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv657_24513.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv658_10532.txt
-Score: -0.4
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv659_19944.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv660_21893.txt
-Score: 0
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv661_2450.txt
-Score: 0.5
 Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv662_13320.txt
-Score: -0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv663_13019.txt
-Score: 0.1
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv664_4389.txt
-Score: 0
-Magnitude: 4
-dataset/review_polarity_IWeYou/pos/cv665_29538.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv666_18963.txt
-Score: 0.1
-Magnitude: 8.8
-dataset/review_polarity_IWeYou/pos/cv667_18467.txt
-Score: -0.3
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv668_17604.txt
-Score: 0
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv669_22995.txt
-Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv670_25826.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv671_5054.txt
-Score: 0
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv672_28083.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv673_24714.txt
-Score: 0.4
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv674_10732.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv675_21588.txt
-Score: 0
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv676_21090.txt
-Score: -0.1
-Magnitude: 4.2
-dataset/review_polarity_IWeYou/pos/cv677_17715.txt
+dataset/review_polarity_LastFive/pos/cv651_10492.txt
 Score: 0
 Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv678_13419.txt
-Score: -0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv679_28559.txt
-Score: 0
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv680_10160.txt
-Score: 0.1
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv681_9692.txt
+dataset/review_polarity_LastFive/pos/cv652_13972.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv653_19583.txt
 Score: -0.1
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv682_16139.txt
-Score: 0
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv683_12167.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv684_11798.txt
-Score: 0.1
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv685_5947.txt
-Score: -0.3
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv686_13900.txt
-Score: -0.2
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv687_21100.txt
-Score: 0.3
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv688_7368.txt
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv654_18246.txt
 Score: 0.6
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv655_11154.txt
+Score: -0.3
 Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv689_12587.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv690_5619.txt
-Score: 0.4
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv691_5043.txt
+dataset/review_polarity_LastFive/pos/cv656_24201.txt
+Score: 0.6
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv657_24513.txt
 Score: 0.3
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv692_15451.txt
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv658_10532.txt
 Score: 0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv659_19944.txt
+Score: 0.3
 Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv693_18063.txt
+dataset/review_polarity_LastFive/pos/cv660_21893.txt
 Score: 0.1
 Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv694_4876.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv695_21108.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv696_29740.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv697_11162.txt
+dataset/review_polarity_LastFive/pos/cv661_2450.txt
 Score: 0.3
 Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv698_15253.txt
+dataset/review_polarity_LastFive/pos/cv662_13320.txt
+Score: 0.4
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv663_13019.txt
 Score: 0.3
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv699_7223.txt
-Score: -0.4
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv700_21947.txt
-Score: 0
-Magnitude: 6.1
-dataset/review_polarity_IWeYou/pos/cv701_14252.txt
-Score: -0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv702_11500.txt
-Score: 0.1
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv703_16143.txt
-Score: 0.5
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv704_15969.txt
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv664_4389.txt
 Score: 0.2
-Magnitude: 3.6
-dataset/review_polarity_IWeYou/pos/cv705_11059.txt
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv665_29538.txt
 Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv706_24716.txt
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv666_18963.txt
+Score: 0.6
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv667_18467.txt
 Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv707_10678.txt
-Score: 0.1
-Magnitude: 4.2
-dataset/review_polarity_IWeYou/pos/cv708_28729.txt
-Score: -0.3
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv709_10529.txt
-Score: -0.2
-Magnitude: 5.2
-dataset/review_polarity_IWeYou/pos/cv710_22577.txt
-Score: 0
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv711_11665.txt
-Score: -0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv712_22920.txt
-Score: 0.1
-Magnitude: 5.3
-dataset/review_polarity_IWeYou/pos/cv713_29155.txt
-Score: 0
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv668_17604.txt
+Score: 0.4
 Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv714_18502.txt
-Score: 0
+dataset/review_polarity_LastFive/pos/cv669_22995.txt
+Score: 0.1
 Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv715_18179.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv716_10514.txt
-Score: -0.3
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv717_15953.txt
-Score: -0.2
-Magnitude: 5
-dataset/review_polarity_IWeYou/pos/cv718_11434.txt
-Score: 0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv719_5713.txt
-Score: -0.1
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv720_5389.txt
-Score: 0.1
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv721_29121.txt
-Score: 0.6
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv722_7110.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv723_8648.txt
-Score: 0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv724_13681.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv725_10103.txt
-Score: 0
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv726_4719.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv727_4978.txt
-Score: -0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv728_16133.txt
+dataset/review_polarity_LastFive/pos/cv670_25826.txt
 Score: 0.2
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv729_10154.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv730_10279.txt
-Score: -0.1
 Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv731_4136.txt
+dataset/review_polarity_LastFive/pos/cv671_5054.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv672_28083.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv673_24714.txt
+Score: 0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv674_10732.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv675_21588.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv676_21090.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv677_17715.txt
+Score: 0.4
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv678_13419.txt
+Score: 0.6
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv679_28559.txt
+Score: 0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv680_10160.txt
+Score: 0.3
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv681_9692.txt
+Score: 0
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv682_16139.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv683_12167.txt
+Score: -0.1
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv684_11798.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv685_5947.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv686_13900.txt
+Score: -0.4
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv687_21100.txt
 Score: 0.7
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv688_7368.txt
+Score: 0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv689_12587.txt
+Score: 0.6
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv690_5619.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv691_5043.txt
+Score: -0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv692_15451.txt
+Score: 0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv693_18063.txt
+Score: -0.1
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv694_4876.txt
+Score: 0.5
 Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv732_12245.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv733_9839.txt
+dataset/review_polarity_LastFive/pos/cv695_21108.txt
+Score: 0.7
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv696_29740.txt
 Score: 0.1
 Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv734_21568.txt
-Score: 0.1
+dataset/review_polarity_LastFive/pos/cv697_11162.txt
+Score: 0
 Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv735_18801.txt
-Score: 0.1
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv736_23670.txt
-Score: 0
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv737_28907.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv738_10116.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv739_11209.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv740_12445.txt
-Score: 0
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv741_11890.txt
-Score: 0
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv742_7751.txt
+dataset/review_polarity_LastFive/pos/cv698_15253.txt
 Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv743_15449.txt
-Score: 0
 Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv744_10038.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv745_12773.txt
-Score: 0.1
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv746_10147.txt
-Score: 0.4
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv747_16556.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv748_12786.txt
+dataset/review_polarity_LastFive/pos/cv699_7223.txt
+Score: -0.1
+Magnitude: 0.1
+dataset/review_polarity_LastFive/pos/cv700_21947.txt
+Score: 0.5
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv701_14252.txt
 Score: 0
 Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv749_17765.txt
-Score: 0
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv750_10180.txt
-Score: 0.1
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv751_15719.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv752_24155.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv753_10875.txt
+dataset/review_polarity_LastFive/pos/cv702_11500.txt
+Score: 0.3
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv703_16143.txt
 Score: 0.2
 Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv754_7216.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv755_23616.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv756_22540.txt
-Score: 0
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv757_10189.txt
-Score: 0.2
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv758_9671.txt
-Score: -0.1
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv759_13522.txt
-Score: 0.2
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv760_8597.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv761_12620.txt
-Score: 0.2
+dataset/review_polarity_LastFive/pos/cv704_15969.txt
+Score: 0.4
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv705_11059.txt
+Score: 0.4
 Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv762_13927.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv763_14729.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv764_11739.txt
-Score: -0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv765_19037.txt
-Score: -0.1
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv766_7540.txt
+dataset/review_polarity_LastFive/pos/cv706_24716.txt
 Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv767_14062.txt
-Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv707_10678.txt
+Score: 0.2
 Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv768_11751.txt
-Score: 0
-Magnitude: 5.6
-dataset/review_polarity_IWeYou/pos/cv769_8123.txt
-Score: 0.6
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv770_10451.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv771_28665.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv772_12119.txt
-Score: 0
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv773_18817.txt
-Score: 0.1
-Magnitude: 2.9
-dataset/review_polarity_IWeYou/pos/cv774_13845.txt
-Score: -0.2
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv775_16237.txt
-Score: -0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv776_20529.txt
-Score: 0
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv777_10094.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv778_17330.txt
-Score: 0.2
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv779_17881.txt
-Score: 0
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv780_7984.txt
-Score: 0.3
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv781_5262.txt
-Score: 0
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv782_19526.txt
-Score: 0.4
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv783_13227.txt
-Score: 0
-Magnitude: 4.2
-dataset/review_polarity_IWeYou/pos/cv784_14394.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv785_22600.txt
-Score: 0.2
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv786_22497.txt
-Score: -0.1
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv787_13743.txt
-Score: 0.1
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv788_25272.txt
-Score: 0.1
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv789_12136.txt
-Score: -0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv790_14600.txt
-Score: 0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv791_16302.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv792_3832.txt
-Score: -0.2
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv793_13650.txt
-Score: -0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv794_15868.txt
-Score: 0
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv795_10122.txt
+dataset/review_polarity_LastFive/pos/cv708_28729.txt
 Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv796_15782.txt
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv709_10529.txt
+Score: -0.2
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv710_22577.txt
 Score: 0
 Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv797_6957.txt
+dataset/review_polarity_LastFive/pos/cv711_11665.txt
+Score: 0.3
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv712_22920.txt
+Score: -0.6
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv713_29155.txt
 Score: 0
-Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv798_23531.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv799_18543.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv800_12368.txt
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv714_18502.txt
 Score: 0.1
-Magnitude: 3.7
-dataset/review_polarity_IWeYou/pos/cv801_25228.txt
-Score: 0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv802_28664.txt
-Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv803_8207.txt
-Score: 0
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv804_10862.txt
-Score: 0.3
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv805_19601.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv806_8842.txt
-Score: -0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv807_21740.txt
-Score: -0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv808_12635.txt
-Score: -0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv809_5009.txt
-Score: 0.4
 Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv810_12458.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv811_21386.txt
-Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv812_17924.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv813_6534.txt
-Score: 0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv814_18975.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv815_22456.txt
+dataset/review_polarity_LastFive/pos/cv715_18179.txt
+Score: -0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv716_10514.txt
 Score: -0.6
 Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv816_13655.txt
-Score: 0
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv817_4041.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv818_10211.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv819_9364.txt
-Score: 0
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv820_22892.txt
-Score: 0
-Magnitude: 4.4
-dataset/review_polarity_IWeYou/pos/cv821_29364.txt
-Score: 0.8
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv822_20049.txt
-Score: -0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv823_15569.txt
-Score: 0
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv824_8838.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv825_5063.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv826_11834.txt
-Score: 0
-Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv827_18331.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv828_19831.txt
-Score: 0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv829_20289.txt
-Score: 0
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv830_6014.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv831_14689.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv832_23275.txt
-Score: -0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv833_11053.txt
-Score: 0
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv834_22195.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv835_19159.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv836_12968.txt
-Score: 0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv837_27325.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv838_24728.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv839_21467.txt
-Score: 0
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv840_16321.txt
-Score: 0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv841_3967.txt
+dataset/review_polarity_LastFive/pos/cv717_15953.txt
+Score: -0.3
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv718_11434.txt
+Score: 0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv719_5713.txt
+Score: 0.5
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv720_5389.txt
 Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv842_5866.txt
-Score: -0.5
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv721_29121.txt
+Score: -0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv722_7110.txt
+Score: -0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv723_8648.txt
+Score: 0.7
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv724_13681.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv725_10103.txt
+Score: -0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv726_4719.txt
+Score: 0.7
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv727_4978.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv728_16133.txt
+Score: 0.7
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv729_10154.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv730_10279.txt
+Score: 0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv731_4136.txt
+Score: 0.3
 Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv843_15544.txt
+dataset/review_polarity_LastFive/pos/cv732_12245.txt
 Score: 0.7
 Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv844_12690.txt
-Score: -0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv845_14290.txt
+dataset/review_polarity_LastFive/pos/cv733_9839.txt
 Score: 0.2
-Magnitude: 3.5
-dataset/review_polarity_IWeYou/pos/cv846_29497.txt
-Score: -0.1
-Magnitude: 4.1
-dataset/review_polarity_IWeYou/pos/cv847_1941.txt
-Score: 0.3
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv734_21568.txt
+Score: 0.2
 Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv848_10036.txt
-Score: -0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv849_15729.txt
-Score: 0.5
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv850_16466.txt
-Score: 0
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv851_20469.txt
+dataset/review_polarity_LastFive/pos/cv735_18801.txt
 Score: 0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv852_27523.txt
-Score: 0.2
-Magnitude: 3.7
-dataset/review_polarity_IWeYou/pos/cv853_29233.txt
-Score: 0
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv854_17740.txt
-Score: 0.4
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv855_20661.txt
-Score: 0.2
 Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv856_29013.txt
-Score: -0.3
+dataset/review_polarity_LastFive/pos/cv736_23670.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv737_28907.txt
+Score: 0.4
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv738_10116.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv739_11209.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv740_12445.txt
+Score: 0.4
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv741_11890.txt
+Score: 0.1
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv742_7751.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv743_15449.txt
+Score: 0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv744_10038.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv745_12773.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv746_10147.txt
+Score: 0.2
 Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv857_15958.txt
+dataset/review_polarity_LastFive/pos/cv747_16556.txt
+Score: 0.1
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv748_12786.txt
+Score: -0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv749_17765.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv750_10180.txt
+Score: 0.4
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv751_15719.txt
+Score: 0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv752_24155.txt
+Score: 0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv753_10875.txt
+Score: 0.4
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv754_7216.txt
+Score: 0.3
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv755_23616.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv756_22540.txt
+Score: 0.5
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv757_10189.txt
+Score: 0
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv758_9671.txt
+Score: -0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv759_13522.txt
+Score: 0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv760_8597.txt
+Score: 0
+Magnitude: 3.2
+dataset/review_polarity_LastFive/pos/cv761_12620.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv762_13927.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv763_14729.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv764_11739.txt
+Score: 0
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv765_19037.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv766_7540.txt
+Score: 0.7
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv767_14062.txt
+Score: 0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv768_11751.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv769_8123.txt
+Score: 0.6
+Magnitude: 3.4
+dataset/review_polarity_LastFive/pos/cv770_10451.txt
+Score: 0.3
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv771_28665.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv772_12119.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv773_18817.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv774_13845.txt
+Score: 0.2
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv775_16237.txt
+Score: 0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv776_20529.txt
+Score: 0.3
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv777_10094.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv778_17330.txt
+Score: 0.5
+Magnitude: 3
+dataset/review_polarity_LastFive/pos/cv779_17881.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv780_7984.txt
+Score: 0.1
+Magnitude: 0.1
+dataset/review_polarity_LastFive/pos/cv781_5262.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv782_19526.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv783_13227.txt
+Score: -0.1
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv784_14394.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv785_22600.txt
+Score: 0.4
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv786_22497.txt
+Score: 0.1
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv787_13743.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv788_25272.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv789_12136.txt
+Score: 0
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv790_14600.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv791_16302.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv792_3832.txt
+Score: -0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv793_13650.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv794_15868.txt
+Score: -0.4
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv795_10122.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv796_15782.txt
+Score: 0.4
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv797_6957.txt
+Score: -0.8
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv798_23531.txt
+Score: -0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv799_18543.txt
+Score: 0.1
+Magnitude: 0.1
+dataset/review_polarity_LastFive/pos/cv800_12368.txt
+Score: 0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv801_25228.txt
+Score: 0.3
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv802_28664.txt
+Score: 0.3
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv803_8207.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv804_10862.txt
+Score: 0
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv805_19601.txt
+Score: -0.2
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv806_8842.txt
 Score: 0.4
 Magnitude: 1.8
-dataset/review_polarity_IWeYou/pos/cv858_18819.txt
-Score: 0.3
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv859_14107.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv860_13853.txt
-Score: 0.1
-Magnitude: 4.3
-dataset/review_polarity_IWeYou/pos/cv861_1198.txt
-Score: 0
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv862_14324.txt
-Score: -0.2
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv863_7424.txt
-Score: 0
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv864_3416.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv865_2895.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv866_29691.txt
-Score: 0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv867_16661.txt
+dataset/review_polarity_LastFive/pos/cv807_21740.txt
 Score: -0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv868_11948.txt
-Score: 0.2
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv869_23611.txt
-Score: 0.3
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv870_16348.txt
-Score: 0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv871_24888.txt
-Score: -0.3
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv872_12591.txt
-Score: 0.2
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv873_18636.txt
-Score: 0
-Magnitude: 3.2
-dataset/review_polarity_IWeYou/pos/cv874_11236.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv875_5754.txt
-Score: 0.4
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv876_9390.txt
-Score: -0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv877_29274.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv878_15694.txt
-Score: 0.4
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv879_14903.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv880_29800.txt
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv808_12635.txt
 Score: -0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv881_13254.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv882_10026.txt
-Score: 0
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv883_27751.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv884_13632.txt
-Score: -0.1
-Magnitude: 1.4
-dataset/review_polarity_IWeYou/pos/cv885_12318.txt
-Score: 0.4
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv886_18177.txt
-Score: 0
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv887_5126.txt
-Score: 0.1
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv888_24435.txt
-Score: -0.2
 Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv889_21430.txt
-Score: 0.1
-Magnitude: 3.1
-dataset/review_polarity_IWeYou/pos/cv890_3977.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv891_6385.txt
-Score: 0
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv892_17576.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv893_26269.txt
-Score: 0.1
-Magnitude: 4.4
-dataset/review_polarity_IWeYou/pos/cv894_2068.txt
+dataset/review_polarity_LastFive/pos/cv809_5009.txt
 Score: 0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv810_12458.txt
+Score: 0.2
 Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv895_21022.txt
-Score: -0.1
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv896_16071.txt
-Score: 0.2
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv897_10837.txt
+dataset/review_polarity_LastFive/pos/cv811_21386.txt
 Score: 0.3
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv898_14187.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv899_16014.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv900_10331.txt
-Score: 0.1
-Magnitude: 3.6
-dataset/review_polarity_IWeYou/pos/cv901_11017.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv902_12256.txt
-Score: 0.3
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv903_17822.txt
-Score: 0.1
-Magnitude: 2.3
-dataset/review_polarity_IWeYou/pos/cv904_24353.txt
-Score: 0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv905_29114.txt
-Score: 0.2
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv906_11491.txt
-Score: -0.1
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv907_3541.txt
-Score: 0.4
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv908_16009.txt
-Score: 0.2
-Magnitude: 5.3
-dataset/review_polarity_IWeYou/pos/cv909_9960.txt
-Score: 0
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv910_20488.txt
-Score: 0.2
-Magnitude: 4.5
-dataset/review_polarity_IWeYou/pos/cv911_20260.txt
-Score: 0
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv912_5674.txt
-Score: 0
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv913_29252.txt
-Score: 0.2
-Magnitude: 5.2
-dataset/review_polarity_IWeYou/pos/cv914_28742.txt
-Score: 0.3
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv915_8841.txt
-Score: -0.5
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv916_15467.txt
-Score: 0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv917_29715.txt
-Score: 0.1
-Magnitude: 1.6
-dataset/review_polarity_IWeYou/pos/cv918_2693.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv919_16380.txt
-Score: -0.3
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv920_29622.txt
-Score: 0.4
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv921_12747.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv922_10073.txt
-Score: 0
-Magnitude: 7.1
-dataset/review_polarity_IWeYou/pos/cv923_11051.txt
-Score: 0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv924_29540.txt
-Score: 0.8
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv925_8969.txt
-Score: 0.2
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv926_17059.txt
-Score: 0
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv927_10681.txt
-Score: 0
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv928_9168.txt
-Score: 0
-Magnitude: 5.2
-dataset/review_polarity_IWeYou/pos/cv929_16908.txt
-Score: -0.2
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv930_13475.txt
-Score: 0.5
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv931_17563.txt
-Score: -0.3
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv932_13401.txt
-Score: 0
-Magnitude: 3.8
-dataset/review_polarity_IWeYou/pos/cv933_23776.txt
-Score: 0
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv934_19027.txt
-Score: 0.3
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv935_23841.txt
-Score: 0
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv936_15954.txt
-Score: 0
-Magnitude: 2.6
-dataset/review_polarity_IWeYou/pos/cv937_9811.txt
-Score: 0.1
-Magnitude: 3.7
-dataset/review_polarity_IWeYou/pos/cv938_10220.txt
-Score: -0.2
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv939_10583.txt
-Score: 0.2
-Magnitude: 1.2
-dataset/review_polarity_IWeYou/pos/cv940_17705.txt
-Score: 0.4
-Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv941_10246.txt
-Score: 0.4
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv942_17082.txt
-Score: -0.5
-Magnitude: 3.9
-dataset/review_polarity_IWeYou/pos/cv943_22488.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv944_13521.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv945_12160.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv946_18658.txt
-Score: 0.3
-Magnitude: 1.5
-dataset/review_polarity_IWeYou/pos/cv947_10601.txt
-Score: 0.2
-Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv948_24606.txt
-Score: 0.6
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv949_20112.txt
-Score: 0.3
-Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv950_12350.txt
-Score: 0
-Magnitude: 1.3
-dataset/review_polarity_IWeYou/pos/cv951_10926.txt
-Score: 0.2
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv952_25240.txt
-Score: 0.2
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv953_6836.txt
-Score: 0.1
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv954_18628.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv955_25001.txt
-Score: 0.1
-Magnitude: 0.1
-dataset/review_polarity_IWeYou/pos/cv956_11609.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv957_8737.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv958_12162.txt
-Score: -0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv959_14611.txt
-Score: 0
-Magnitude: 0.3
-dataset/review_polarity_IWeYou/pos/cv960_29007.txt
-Score: -0.1
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv961_5682.txt
-Score: 0.8
 Magnitude: 2.4
-dataset/review_polarity_IWeYou/pos/cv962_9803.txt
-Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv963_6895.txt
-Score: 0
-Magnitude: 5
-dataset/review_polarity_IWeYou/pos/cv964_6021.txt
+dataset/review_polarity_LastFive/pos/cv812_17924.txt
 Score: 0.1
-Magnitude: 2.7
-dataset/review_polarity_IWeYou/pos/cv965_26071.txt
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv813_6534.txt
 Score: 0.1
-Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv966_28832.txt
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv814_18975.txt
+Score: 0.1
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv815_22456.txt
+Score: -0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv816_13655.txt
+Score: -0.1
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv817_4041.txt
 Score: -0.2
-Magnitude: 0.4
-dataset/review_polarity_IWeYou/pos/cv967_5788.txt
-Score: 0.4
-Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv968_24218.txt
-Score: 0.6
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv969_13250.txt
+Magnitude: 0.2
+dataset/review_polarity_LastFive/pos/cv818_10211.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv970_18450.txt
-Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv819_9364.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv820_22892.txt
+Score: 0.4
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv821_29364.txt
+Score: 0.8
 Magnitude: 0.8
-dataset/review_polarity_IWeYou/pos/cv971_10874.txt
+dataset/review_polarity_LastFive/pos/cv822_20049.txt
+Score: -0.1
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv823_15569.txt
 Score: 0.2
 Magnitude: 1.1
-dataset/review_polarity_IWeYou/pos/cv972_26417.txt
+dataset/review_polarity_LastFive/pos/cv824_8838.txt
 Score: 0
-Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv973_10066.txt
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv825_5063.txt
+Score: -0.6
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv826_11834.txt
+Score: 0.2
+Magnitude: 2.8
+dataset/review_polarity_LastFive/pos/cv827_18331.txt
 Score: 0
-Magnitude: 6.2
-dataset/review_polarity_IWeYou/pos/cv974_22941.txt
-Score: 0.1
 Magnitude: 0.9
-dataset/review_polarity_IWeYou/pos/cv975_10981.txt
-Score: 0
-Magnitude: 0.2
-dataset/review_polarity_IWeYou/pos/cv976_10267.txt
-Score: 0.1
-Magnitude: 3.4
-dataset/review_polarity_IWeYou/pos/cv977_4938.txt
+dataset/review_polarity_LastFive/pos/cv828_19831.txt
+Score: -0.1
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv829_20289.txt
+Score: 0.3
+Magnitude: 2.9
+dataset/review_polarity_LastFive/pos/cv830_6014.txt
+Score: 0.3
+Magnitude: 3.1
+dataset/review_polarity_LastFive/pos/cv831_14689.txt
 Score: 0
 Magnitude: 3
-dataset/review_polarity_IWeYou/pos/cv978_20929.txt
-Score: 0
-Magnitude: 0.6
-dataset/review_polarity_IWeYou/pos/cv979_18921.txt
+dataset/review_polarity_LastFive/pos/cv832_23275.txt
+Score: -0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv833_11053.txt
+Score: 0.5
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv834_22195.txt
 Score: 0.2
-Magnitude: 2.1
-dataset/review_polarity_IWeYou/pos/cv980_10953.txt
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv835_19159.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv836_12968.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv837_27325.txt
+Score: 0.9
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv838_24728.txt
+Score: 0.2
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv839_21467.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv840_16321.txt
+Score: -0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv841_3967.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv842_5866.txt
+Score: -0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv843_15544.txt
 Score: 0
 Magnitude: 0
-dataset/review_polarity_IWeYou/pos/cv981_14989.txt
-Score: 0.1
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv982_21103.txt
-Score: 0.5
-Magnitude: 2.2
-dataset/review_polarity_IWeYou/pos/cv983_22928.txt
-Score: 0
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv984_12767.txt
-Score: 0.2
-Magnitude: 0.5
-dataset/review_polarity_IWeYou/pos/cv985_6359.txt
-Score: 0.3
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv986_13527.txt
-Score: 0
-Magnitude: 10.8
-dataset/review_polarity_IWeYou/pos/cv987_6965.txt
-Score: -0.7
-Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv988_18740.txt
-Score: -0.1
-Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv989_15824.txt
+dataset/review_polarity_LastFive/pos/cv844_12690.txt
 Score: 0
 Magnitude: 1.7
-dataset/review_polarity_IWeYou/pos/cv990_11591.txt
-Score: -0.3
+dataset/review_polarity_LastFive/pos/cv845_14290.txt
+Score: -0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv846_29497.txt
+Score: -0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv847_1941.txt
+Score: 0.2
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv848_10036.txt
+Score: 0.1
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv849_15729.txt
+Score: 0.6
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv850_16466.txt
+Score: 0
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv851_20469.txt
+Score: 0
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv852_27523.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv853_29233.txt
+Score: 0
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv854_17740.txt
+Score: 0
+Magnitude: 0.6
+dataset/review_polarity_LastFive/pos/cv855_20661.txt
+Score: 0.1
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv856_29013.txt
+Score: -0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv857_15958.txt
+Score: -0.2
 Magnitude: 2
-dataset/review_polarity_IWeYou/pos/cv991_18645.txt
+dataset/review_polarity_LastFive/pos/cv858_18819.txt
+Score: 0.5
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv859_14107.txt
+Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv860_13853.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv861_1198.txt
+Score: 0.4
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv862_14324.txt
+Score: 0.1
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv863_7424.txt
 Score: 0
-Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv992_11962.txt
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv864_3416.txt
+Score: 0.5
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv865_2895.txt
+Score: 0.8
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv866_29691.txt
+Score: -0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv867_16661.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv868_11948.txt
+Score: 0.3
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv869_23611.txt
+Score: -0.2
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv870_16348.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv871_24888.txt
 Score: 0
-Magnitude: 5.7
-dataset/review_polarity_IWeYou/pos/cv993_29737.txt
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv872_12591.txt
+Score: -0.1
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv873_18636.txt
+Score: 0.3
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv874_11236.txt
+Score: -0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv875_5754.txt
 Score: 0
-Magnitude: 3.3
-dataset/review_polarity_IWeYou/pos/cv994_12270.txt
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv876_9390.txt
+Score: 0.3
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv877_29274.txt
+Score: 0.3
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv878_15694.txt
+Score: 0.8
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv879_14903.txt
+Score: 0.4
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv880_29800.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv881_13254.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv882_10026.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv883_27751.txt
+Score: 0.5
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv884_13632.txt
+Score: -0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv885_12318.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv886_18177.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv887_5126.txt
+Score: 0.4
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv888_24435.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv889_21430.txt
+Score: 0.4
+Magnitude: 2.6
+dataset/review_polarity_LastFive/pos/cv890_3977.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv891_6385.txt
+Score: -0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv892_17576.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv893_26269.txt
+Score: -0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv894_2068.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv895_21022.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv896_16071.txt
+Score: 0.3
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv897_10837.txt
+Score: -0.2
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv898_14187.txt
+Score: 0
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv899_16014.txt
+Score: -0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv900_10331.txt
+Score: 0
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv901_11017.txt
+Score: 0.2
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv902_12256.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv903_17822.txt
+Score: 0.2
+Magnitude: 2.5
+dataset/review_polarity_LastFive/pos/cv904_24353.txt
+Score: 0
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv905_29114.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv906_11491.txt
+Score: 0.3
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv907_3541.txt
+Score: 0.2
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv908_16009.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv909_9960.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv910_20488.txt
+Score: 0.2
+Magnitude: 0.5
+dataset/review_polarity_LastFive/pos/cv911_20260.txt
+Score: -0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv912_5674.txt
+Score: 0.6
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv913_29252.txt
+Score: 0.4
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv914_28742.txt
+Score: 0.3
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv915_8841.txt
+Score: 0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv916_15467.txt
+Score: 0.6
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv917_29715.txt
+Score: 0.3
+Magnitude: 3.6
+dataset/review_polarity_LastFive/pos/cv918_2693.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv919_16380.txt
+Score: 0.6
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv920_29622.txt
+Score: 0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv921_12747.txt
+Score: 0.5
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv922_10073.txt
+Score: -0.3
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv923_11051.txt
+Score: 0
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv924_29540.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv925_8969.txt
+Score: 0.2
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv926_17059.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv927_10681.txt
+Score: 0
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv928_9168.txt
+Score: 0.4
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv929_16908.txt
+Score: 0.1
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv930_13475.txt
+Score: 0.2
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv931_17563.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv932_13401.txt
+Score: -0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv933_23776.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv934_19027.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv935_23841.txt
+Score: 0
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv936_15954.txt
+Score: -0.5
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv937_9811.txt
+Score: 0
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv938_10220.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv939_10583.txt
+Score: 0.5
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv940_17705.txt
 Score: 0.1
 Magnitude: 1.9
-dataset/review_polarity_IWeYou/pos/cv995_21821.txt
-Score: 0
+dataset/review_polarity_LastFive/pos/cv941_10246.txt
+Score: 0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv942_17082.txt
+Score: -0.3
 Magnitude: 2.8
-dataset/review_polarity_IWeYou/pos/cv996_11592.txt
+dataset/review_polarity_LastFive/pos/cv943_22488.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv944_13521.txt
+Score: 0.1
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv945_12160.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv946_18658.txt
+Score: 0.8
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv947_10601.txt
+Score: -0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv948_24606.txt
+Score: 0.2
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv949_20112.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv950_12350.txt
+Score: -0.1
+Magnitude: 0.9
+dataset/review_polarity_LastFive/pos/cv951_10926.txt
+Score: 0.2
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv952_25240.txt
 Score: 0.3
 Magnitude: 0.7
-dataset/review_polarity_IWeYou/pos/cv997_5046.txt
-Score: -0.2
-Magnitude: 2.5
-dataset/review_polarity_IWeYou/pos/cv998_14111.txt
+dataset/review_polarity_LastFive/pos/cv953_6836.txt
 Score: -0.1
-Magnitude: 1
-dataset/review_polarity_IWeYou/pos/cv999_13106.txt
+Magnitude: 0.3
+dataset/review_polarity_LastFive/pos/cv954_18628.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv955_25001.txt
+Score: 0.3
+Magnitude: 1.1
+dataset/review_polarity_LastFive/pos/cv956_11609.txt
+Score: 0.3
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv957_8737.txt
+Score: 0.5
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv958_12162.txt
+Score: -0.2
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv959_14611.txt
+Score: -0.1
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv960_29007.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv961_5682.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv962_9803.txt
+Score: 0.5
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv963_6895.txt
+Score: -0.1
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv964_6021.txt
+Score: 0.2
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv965_26071.txt
 Score: 0.1
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv966_28832.txt
+Score: 0.4
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv967_5788.txt
+Score: 0.2
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv968_24218.txt
+Score: 0.7
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv969_13250.txt
+Score: 0.4
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv970_18450.txt
+Score: 0.4
+Magnitude: 2.4
+dataset/review_polarity_LastFive/pos/cv971_10874.txt
+Score: -0.3
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv972_26417.txt
+Score: 0.1
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv973_10066.txt
+Score: -0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv974_22941.txt
+Score: -0.3
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv975_10981.txt
+Score: 0.5
+Magnitude: 2.3
+dataset/review_polarity_LastFive/pos/cv976_10267.txt
+Score: 0.3
+Magnitude: 1.3
+dataset/review_polarity_LastFive/pos/cv977_4938.txt
+Score: 0
+Magnitude: 0.7
+dataset/review_polarity_LastFive/pos/cv978_20929.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv979_18921.txt
+Score: 0.1
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv980_10953.txt
+Score: 0.2
+Magnitude: 2.7
+dataset/review_polarity_LastFive/pos/cv981_14989.txt
+Score: 0.2
+Magnitude: 1.9
+dataset/review_polarity_LastFive/pos/cv982_21103.txt
+Score: 0
+Magnitude: 0.4
+dataset/review_polarity_LastFive/pos/cv983_22928.txt
+Score: -0.2
+Magnitude: 1.2
+dataset/review_polarity_LastFive/pos/cv984_12767.txt
+Score: 0.6
+Magnitude: 1.8
+dataset/review_polarity_LastFive/pos/cv985_6359.txt
+Score: 0.4
+Magnitude: 1.6
+dataset/review_polarity_LastFive/pos/cv986_13527.txt
+Score: 0
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv987_6965.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv988_18740.txt
+Score: 0.3
 Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv989_15824.txt
+Score: 0.3
+Magnitude: 2.2
+dataset/review_polarity_LastFive/pos/cv990_11591.txt
+Score: 0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv991_18645.txt
+Score: 0.2
+Magnitude: 0.8
+dataset/review_polarity_LastFive/pos/cv992_11962.txt
+Score: 0.2
+Magnitude: 2.1
+dataset/review_polarity_LastFive/pos/cv993_29737.txt
+Score: 0.3
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv994_12270.txt
+Score: 0.1
+Magnitude: 1
+dataset/review_polarity_LastFive/pos/cv995_21821.txt
+Score: 0.5
+Magnitude: 1.7
+dataset/review_polarity_LastFive/pos/cv996_11592.txt
+Score: 0.3
+Magnitude: 2
+dataset/review_polarity_LastFive/pos/cv997_5046.txt
+Score: 0.3
+Magnitude: 1.4
+dataset/review_polarity_LastFive/pos/cv998_14111.txt
+Score: 0.3
+Magnitude: 1.5
+dataset/review_polarity_LastFive/pos/cv999_13106.txt
+Score: 0.5
+Magnitude: 2.3
 
-Greater
-Correct:405
-count: 1000
-0.405
-
-Greater equal
-Correct:763
-count: 1000
-0.763
-
-amb:111
+amb:195
 count: 400

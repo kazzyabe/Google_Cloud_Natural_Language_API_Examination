@@ -1,6 +1,6 @@
 # open a result file specified in the argument
-f = open('Res_3rd/ResPos', 'r')
-f2 = open('Res_6th/ResPos', 'r')
+f = open('Res_3rd/ResNeg', 'r')
+f2 = open('Res_5th/ResNeg', 'r')
 
 temp = f.readline() # read first line of the file
 temp2 = f2.readline()
@@ -27,6 +27,7 @@ while temp:
             # if val2 < 0.0:
             #     amb += 1
             count += 1
+            # print(count)
 
     temp = f.readline()
     temp2 = f2.readline()
