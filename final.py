@@ -4,6 +4,9 @@ from google.cloud import language
 from glob import glob
 
 def load_file_names(directory):
+    """
+    Load files' path with fila names ending with .txt
+    """
     path = directory + '/*.txt'
     return glob(path)
 

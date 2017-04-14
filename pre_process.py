@@ -1,5 +1,9 @@
 from final import *
 
+"""
+Remove all sentences after '['
+    (the most additional information was inside '[]', and I added '[' manually if it is not)
+"""
 l = load_file_names('dataset/pos')
 
 for name in l:
