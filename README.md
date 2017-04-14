@@ -20,14 +20,16 @@ Count how many documents with score of 0.0 are disambiguated
 
     compare_neutral.py
 
-Res_1st and Res_2nd are the results of 1st and 2nd parts of Experiment 1 respectively
+Results:
 
-Res_3rd: Result of sentiment analysis on dataset/review_polarity
+    Res_1st and Res_2nd are the results of 1st and 2nd parts of Experiment 1 respectively
 
-Res_4th: Result of sentiment analysis on dataset/review_polarity_LastSevenSents
+    Res_3rd: Result of sentiment analysis on dataset/review_polarity
 
-Res_5th: Result of sentiment analysis on dataset/review_polarity_IWeYou
+    Res_4th: Result of sentiment analysis on dataset/review_polarity_LastSevenSents
 
-Res_6th: Result of sentiment analysis on dataset/review_polarity_I
+    Res_5th: Result of sentiment analysis on dataset/review_polarity_IWeYou
 
-Res_LastFive: Result of sentiment analysis on dataset/review_polarity_LastFive
+    Res_6th: Result of sentiment analysis on dataset/review_polarity_I
+
+    Res_LastFive: Result of sentiment analysis on dataset/review_polarity_LastFive
