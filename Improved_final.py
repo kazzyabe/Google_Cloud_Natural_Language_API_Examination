@@ -28,6 +28,7 @@ def sentiment_text(result, text):
     #   document.doc_type == language.Document.HTML
     sentiment = document.analyze_sentiment().sentiment
 
+    # if score is 0.0, try to disambiguate by extracting last 5 sentences
     if sentiment.score == 0.0:
         analizee = analizee.split('.')
         analizee = analizee[-5:]
